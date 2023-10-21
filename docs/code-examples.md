@@ -27,10 +27,10 @@ let make = () => {
 
 ## Import from file
 
-<<< @/src/CelsiusConverter.re
+<<< @/../src/CelsiusConverter.re
 
 ## Import region from file
 
 Just the sandwich region and nothing else
 
-<<< @/src/Order.re#sandwich
+<<< @/../src/Order.re#sandwich
