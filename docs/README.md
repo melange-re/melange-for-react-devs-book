@@ -1,5 +1,7 @@
 # Melange for React Developers Book
 
+See https://github.com/melange-re/melange-for-react-devs.
+
 ## Installation
 
 ```bash
